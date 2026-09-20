@@ -26,11 +26,11 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/197973?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-197973" target="_blank" rel="noopener noreferrer">
-    <img src="https://trendshift.io/api/badge/trendshift/repositories/197973/daily?language=Kotlin" alt="Clash-Projects%2FPuzderWav-Native | Trendshift" width="250" height="55" />
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/197973/daily?language=Kotlin" alt="Puzderliski01%2FPuzderWav | Trendshift" width="250" height="55" />
   </a>
   &nbsp;
   <a href="https://trendshift.io/repositories/197973?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-197973" target="_blank" rel="noopener noreferrer">
-    <img src="https://trendshift.io/api/badge/trendshift/repositories/197973/weekly?language=Kotlin" alt="Clash-Projects%2FPuzderWav-Native | Trendshift" width="250" height="55" />
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/197973/weekly?language=Kotlin" alt="Puzderliki01%2FPuzderWav | Trendshift" width="250" height="55" />
   </a>
 </p>
 
@@ -114,7 +114,7 @@ Built with **Material 3 Expressive**, PuzderWav combines effortless ad-free stre
 
 ## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C6F100" width="20" height="20" align="center" /> Getting Started
 
-1. Download the latest APK from the **[Releases](https://github.com/Clash-Projects/PuzderWav-native/releases)** or **[Actions](https://github.com/Clash-Projects/PuzderWav-native/actions)** tab.
+1. Download the latest APK from the **[Releases](https://github.com/Puzderliski01/PuzderWav/releases)** or **[Actions](https://github.com/Puzderliski01/PuzderWav/actions)** tab.
 2. Install `PuzderWav-v4.1.1-release.apk` on your Android device (Android 7.0+).
 3. Connect your Last.fm account in **Settings → Integrations** to unlock the scrobbler, taste mixes, and personalized discovery radar.
 4. Enjoy ad-free streaming and smart playlist generation!
@@ -124,8 +124,8 @@ Built with **Material 3 Expressive**, PuzderWav combines effortless ad-free stre
 ## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23C6F100" width="20" height="20" align="center" /> Building from Source
 
 ```bash
-git clone https://github.com/Clash-Projects/PuzderWav-native.git
-cd PuzderWav-native
+git clone https://github.com/Puzderliski/PuzderWav.git
+cd PuzderWav
 ./gradlew assembleRelease
 ```
 
@@ -154,7 +154,5 @@ cd PuzderWav-native
 ---
 
 <div align="center">
-  <p><b>PuzderWav</b> is built with ❤️ by <a href="https://github.com/duxtami">Duxtami</a> & <a href="https://github.com/ajisth69">Ajisth</a>.</p>
+  <p><b>PuzderWav</b> is built with ❤️ by <a href="https://github.com/Puzderliski01">Stefan Puzderliski</a>.</p>
 </div>
-
-[![GitGem](https://gitgem.org/api/badge/github/Clash-Projects/PuzderWav-Native.svg)](https://gitgem.org/github/Clash-Projects/PuzderWav-Native)
